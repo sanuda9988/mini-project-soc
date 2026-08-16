@@ -1,0 +1,54 @@
+# Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Node.js / React
+client-app/node_modules/
+client-app/dist/
+client-app/.env.local
+
+# Logs
+*.log
+logs/
+
+# Docker
+.docker/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Spring Boot
+*.pid
+
+# H2 Database files
+*.db
+*.mv.db
+*.trace.db
+
+# Other Group Members' Separate Services (Tracked in their own repositories)
+other-members-services/
+
+# Course Assignment Docs
+*.pdf
+*.docx
